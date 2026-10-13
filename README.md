@@ -1,1 +1,1 @@
-# JCSE-UMVC
+# Official PyTorch implementation of JCSE-UMVC.
